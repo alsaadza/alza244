@@ -1,9 +1,7 @@
-## Hi there 👋
-
 <h1 align="center">Hey there 👋, I'm Zain Alsaad</h1>
 <h3 align="center">Computer Science & Data Science Undergrad @ Belmont University.</h3>
 
-- 📫 Please reach out to me! My email is **alsaadza@yahoo.com**
+- 📫 Looking to reach out? Please reach out to me! My email is **alsaadza@yahoo.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
